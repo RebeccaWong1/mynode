@@ -1,0 +1,2 @@
+# mynode
+about node study
